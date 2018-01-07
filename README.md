@@ -34,4 +34,4 @@ backing|101213886|ความช่วยเหลือ
 ````
 ### Download
 
-Pre-built: (http://file.veer66.rocks/nlp/thai-wordnet-db-20180107.tar.gz)[http://file.veer66.rocks/nlp/thai-wordnet-db-20180107.tar.gz]
+Pre-built: http://file.veer66.rocks/nlp/thai-wordnet-db-20180107.tar.gz
